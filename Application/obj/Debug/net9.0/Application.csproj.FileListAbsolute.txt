@@ -1,0 +1,16 @@
+C:\Dev\CleanApi\Application\bin\Debug\net9.0\Application.deps.json
+C:\Dev\CleanApi\Application\bin\Debug\net9.0\Application.dll
+C:\Dev\CleanApi\Application\bin\Debug\net9.0\Application.pdb
+C:\Dev\CleanApi\Application\bin\Debug\net9.0\Domain.dll
+C:\Dev\CleanApi\Application\bin\Debug\net9.0\Domain.pdb
+C:\Dev\CleanApi\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\Dev\CleanApi\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CleanApi\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\Dev\CleanApi\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\Dev\CleanApi\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\Dev\CleanApi\Application\obj\Debug\net9.0\Application.sourcelink.json
+C:\Dev\CleanApi\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\Dev\CleanApi\Application\obj\Debug\net9.0\Application.dll
+C:\Dev\CleanApi\Application\obj\Debug\net9.0\refint\Application.dll
+C:\Dev\CleanApi\Application\obj\Debug\net9.0\Application.pdb
+C:\Dev\CleanApi\Application\obj\Debug\net9.0\ref\Application.dll

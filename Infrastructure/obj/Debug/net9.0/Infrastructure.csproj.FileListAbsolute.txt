@@ -1,0 +1,16 @@
+C:\Dev\CleanApi\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Dev\CleanApi\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Dev\CleanApi\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Dev\CleanApi\Infrastructure\bin\Debug\net9.0\Domain.dll
+C:\Dev\CleanApi\Infrastructure\bin\Debug\net9.0\Domain.pdb
+C:\Dev\CleanApi\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Dev\CleanApi\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CleanApi\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Dev\CleanApi\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Dev\CleanApi\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Dev\CleanApi\Infrastructure\obj\Debug\net9.0\Infrastructure.sourcelink.json
+C:\Dev\CleanApi\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Dev\CleanApi\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Dev\CleanApi\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Dev\CleanApi\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Dev\CleanApi\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
