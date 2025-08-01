@@ -93,8 +93,8 @@ GET http://localhost:5137/api/users/aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa
 ```json
 {
   "id": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
-  "name": "Maria Bublitz",
-  "email": "maria@example.com"
+  "name": "Jorge Bublitz",
+  "email": "jorge@bublitz.com"
 }
 ```
 
@@ -119,13 +119,13 @@ GET http://localhost:5137/api/users/aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa
 
 ## 📌 Benefícios
 
-| Aspecto               | MVC Tradicional | Clean Architecture |
-|------------------------|------------------|---------------------|
-| Separação de camadas  | ❌               | ✅                  |
-| Testabilidade         | ❌               | ✅                  |
-| Acoplamento           | Alto              | Baixo               |
-| Flexibilidade         | Baixa             | Alta                |
-| Sustentabilidade      | Baixa             | Alta                |
+| Aspecto              | MVC Tradicional | Clean Architecture |
+| -------------------- | --------------- | ------------------ |
+| Separação de camadas | ❌              | ✅                 |
+| Testabilidade        | ❌              | ✅                 |
+| Acoplamento          | Alto            | Baixo              |
+| Flexibilidade        | Baixa           | Alta               |
+| Sustentabilidade     | Baixa           | Alta               |
 
 ---
 
@@ -148,4 +148,4 @@ GET http://localhost:5137/api/users/aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa
 ## ✍️ Autor
 
 **Jorge Bublitz**  
-Projeto baseado no artigo: *"MVC não é o padrão mais eficiente para APIs"* (PDF)
+Projeto baseado no artigo: _"MVC não é o padrão mais eficiente para APIs"_ (PDF)
